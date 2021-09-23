@@ -11,4 +11,8 @@ hello git ,hello world
 修改测试
 
 
+<<<<<<< HEAD
 12.19
+=======
+12.25分支hot-fix 修改
+>>>>>>> hot-fix
